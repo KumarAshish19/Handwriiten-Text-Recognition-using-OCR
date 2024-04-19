@@ -1,1 +1,1 @@
-# Handwriiten-Text-Recognition-using-OCR
+Dataset - https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
